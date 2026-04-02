@@ -1,5 +1,5 @@
 # maven-repo
-acecloudacademy-maven-repo
+maven-latest-repo
 
 
 CI-CD Flow 
